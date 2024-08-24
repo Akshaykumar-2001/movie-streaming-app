@@ -1,1 +1,1 @@
-# A movie streaming app along with Open AI GPT for movie recomendations
+# A movie streaming app. 
